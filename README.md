@@ -5,8 +5,10 @@ Selain itu, program ini juga mengelola objek buku dan anggota. Setiap buku memil
 **Tampilan Awal**
 ![Tampilan Awal](https://github.com/Marlenijournal/PractPBO/assets/168698302/8fb70c5a-5c67-4a52-8879-bb4ee665684a)
 
+
 **Pendaftaran Member**
 ![Pendaftaran Member](https://github.com/Marlenijournal/PractPBO/assets/168698302/362037b8-3c2d-409b-bb33-43500395d9d9)
+
 
 **Daftar Buku**
 ![image](https://github.com/Marlenijournal/PractPBO/assets/168698302/14d54b92-5f64-4098-95e0-0eb3c96cc400)
@@ -23,11 +25,13 @@ Cari Buku Berdasarkan Genre
 cari Buku Berdasarkan Nama Penulis
 ![image](https://github.com/Marlenijournal/PractPBO/assets/168698302/5e85f3a4-d6a8-4dcd-a92b-0d338058f346)
 
+
 **Pinjam Buku**
 ![image](https://github.com/Marlenijournal/PractPBO/assets/168698302/875a5acd-8a33-4267-954a-a73e2a702434)
 
 Jika buku dipinjam oleh bukan member, maka akan menampilkan tampilan seperti ini
 ![image](https://github.com/Marlenijournal/PractPBO/assets/168698302/012070d3-8171-4828-bc45-5689ee6713a8)
+
 
 **Mengembalikan Buku**
 ![image](https://github.com/Marlenijournal/PractPBO/assets/168698302/409ac290-1c54-441f-b5ed-1830b4741ac1)
