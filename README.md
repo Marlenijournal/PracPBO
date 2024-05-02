@@ -4,5 +4,11 @@ Selain itu, program ini juga mengelola objek buku dan anggota. Setiap buku memil
 
 Tampilan Awal
 ![Tampilan Awal](https://github.com/Marlenijournal/PractPBO/assets/168698302/8fb70c5a-5c67-4a52-8879-bb4ee665684a)
-![image](https://github.com/Marlenijournal/PractPBO/assets/168698302/eaf5c13b-fde5-4699-8d04-da7924d8d9fa)
+
+Pendaftaran Member
+![Pendaftaran Member](https://github.com/Marlenijournal/PractPBO/assets/168698302/362037b8-3c2d-409b-bb33-43500395d9d9)
+
+Daftar Buku
+![image](https://github.com/Marlenijournal/PractPBO/assets/168698302/14d54b92-5f64-4098-95e0-0eb3c96cc400)
+
 
