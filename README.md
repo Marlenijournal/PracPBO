@@ -1,2 +1,2 @@
-# PracPBO
+# PractPBO
 Midterm Exam
